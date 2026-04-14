@@ -25,5 +25,5 @@ Machine Learning • RAG • IoT • Data Analytics
 
 ### 🔗 Connect
 <p align="left">
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jinesha-gandhi/">LinkedIn</a>
 </p>
