@@ -18,4 +18,4 @@ Python • Machine Learning • RAG • FAISS • Streamlit • SQL • Tableau 
 ---
 
 ## 📫 Connect
-LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/jinesha-gandhi/)
+LinkedIn:  https://www.linkedin.com/in/jinesha-gandhi/
