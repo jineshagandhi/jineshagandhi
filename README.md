@@ -1,21 +1,29 @@
-# Hi, I'm Jinesha Gandhi 👋
+<h2 align="center">Jinesha Gandhi</h2>
 
-AI & Data Science student building real-world AI systems in healthcare, IoT, and data analytics.
+<p align="center">
+AI & Data Science Student • Building real-world AI systems
+</p>
 
----
-
-## 🚀 Featured Work
-- ICU Diagnostic Risk Assistant – Multi-agent AI system for early sepsis detection  
-- AquaSentinel – IoT-based water quality monitoring & anomaly detection  
-- AI Legal Assistant – RAG-based legal document analysis system  
-- Suicide Rate Analytics Dashboard – Data-driven insights using Python & Plotly  
+<p align="center">
+Machine Learning • RAG • IoT • Data Analytics
+</p>
 
 ---
 
-## 🛠 Tech Stack
-Python • Machine Learning • RAG • FAISS • Streamlit • SQL • Tableau • IoT
+### 🚀 Projects
+- **ICU Diagnostic Risk Assistant** – Multi-agent AI for early sepsis detection  
+- **AquaSentinel** – IoT-based water monitoring system  
+- **AI Legal Assistant** – RAG-based document analysis  
+- **Analytics Dashboard** – Data insights using Python & Plotly  
 
 ---
 
-## 📫 Connect
-LinkedIn:  https://www.linkedin.com/in/jinesha-gandhi/
+### ⚙️ Tech Stack
+`Python` `Machine Learning` `RAG` `FAISS` `Streamlit` `SQL` `Tableau` `IoT`
+
+---
+
+### 🔗 Connect
+<p align="left">
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a>
+</p>
