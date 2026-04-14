@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jinesha Gandhi 👋
 
-<!--
-**jineshagandhi/jineshagandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science student building real-world AI systems in healthcare, IoT, and data analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Work
+- ICU Diagnostic Risk Assistant – Multi-agent AI system for early sepsis detection  
+- AquaSentinel – IoT-based water quality monitoring & anomaly detection  
+- AI Legal Assistant – RAG-based legal document analysis system  
+- Suicide Rate Analytics Dashboard – Data-driven insights using Python & Plotly  
+
+---
+
+## 🛠 Tech Stack
+Python • Machine Learning • RAG • FAISS • Streamlit • SQL • Tableau • IoT
+
+---
+
+## 📫 Connect
+LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/jinesha-gandhi/)
