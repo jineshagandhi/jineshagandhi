@@ -34,7 +34,7 @@
 | 6 | [Suicide Rate Analytics Dashboard](https://github.com/jineshagandhi/Suicide-Rate-Analytics-Dashboard) | Python · Pandas · Plotly · Dash | 2025 |
 | 7 | [IoT Health Monitoring Sleeve](https://github.com/jineshagandhi/smart-arm-sleeve-health-monitor) | Python · XGBoost · Raspberry Pi | 2025 |
 | 8 | [Personal Expense Tracker](https://github.com/jineshagandhi/EXPENSE-TRACKER) | PHP · MySQL · HTML/CSS/JS | 2025 |
-| 9 | [Online Flight Ticketing System](https://github.com/jineshagandhi/Online-Flight-Ticketing-System) | PHP · MySQL · Bootstrap · Docker | 2025 |
+| 9 | [Online Flight Ticketing System](https://github.com/jineshagandhi/Online-Flight-Ticketing-System) | PHP · MySQL · Bootstrap | 2025 |
 | 10 | [Helicopter Game — OOP](https://github.com/jineshagandhi/Helicopter_Game_OOC) | C++ · SFML · OOP | 2024 |
 
 ---
