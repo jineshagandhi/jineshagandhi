@@ -37,7 +37,7 @@
 |---|---------|-------|------|
 | 1 | [ICU Agentic Diagnostic Risk Assistant](https://github.com/jineshagandhi/ICU-Agentic-Diagnostic-Risk-Assistance) | Python · Gemini 2.0 · FAISS · RAG · Streamlit | 2026 |
 | 2 | [FreelanceFlow — Freelance Marketplace](https://github.com/jineshagandhi/FreelanceFlow) | Java · Spring Boot · React · MongoDB · Docker | 2026 |
-| 3 | [EcoAudit — CCNLP Carbon Footprint Analysis](https://github.com/durhamdenzil-prog/EcoAudit) *(group · 4 members)* | React · TypeScript · FastAPI · Neo4j · spaCy · Llama3 | 2026 |
+| 3 | [EcoAudit — CCNLP Carbon Footprint Analysis](https://github.com/durhamdenzil-prog/EcoAudit) | React · TypeScript · FastAPI · Neo4j · spaCy · Llama3 | 2026 |
 | 4 | [PSPLRAS — Student Performance Analytics](https://github.com/jineshagandhi/psplras) | FastAPI · React · MongoDB · scikit-learn | 2026 |
 | 5 | [NorthWind Sales Dashboard](https://public.tableau.com/app/profile/jinesha.gandhi/viz/NorthWind_17754591301170/Dashboard1) | Tableau | 2026 |
 | 6 | [LAWScribe — AI Legal Document Analysis](https://github.com/jineshagandhi/AI-Legal-Assistant) | Python · Mistral-7B · FAISS · RAG | 2025 |
