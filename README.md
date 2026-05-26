@@ -13,8 +13,6 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=jineshagandhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jineshagandhi&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jineshagandhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
