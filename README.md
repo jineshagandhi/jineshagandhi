@@ -1,109 +1,26 @@
-<div align="center">
-
 # Jinesha Gandhi
 
-**AI & Data Science Student · MIT World Peace University · Pune · 2027**
+Final-year B.Tech, Computer Science (AI & Data Science) at MIT World Peace University, Pune. Graduating 2027.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinesha-gandhi/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jineshagandhi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jineshagandhi2020@gmail.com)
+I build software across AI, full-stack, IoT, and analytics — with a current focus on multi-agent AI systems, RAG pipelines, and data platforms that translate raw information into decisions.
 
-</div>
+## What I work on
 
-<div align="center">
+- Multi-agent AI systems and RAG pipelines using ChromaDB, FAISS, and LangChain
+- Full-stack applications with Spring Boot, React, MongoDB, and Docker
+- IoT and edge systems with ESP32 and Raspberry Pi
+- Interactive analytics dashboards with Power BI, Tableau, and Python Dash
 
-![](https://github-readme-stats.vercel.app/api?username=jineshagandhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jineshagandhi&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jineshagandhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+## Recent
 
-</div>
+- IGNISIA National Level AI Hackathon 2026 — Built a multi-agent ICU diagnostic pipeline in a 24-hour national competition
+- Smart India Hackathon 2025 — Selected to represent MIT World Peace University at national-level screening
 
----
+## Currently
 
-## 👩‍💻 About Me
+Open to internship and full-time opportunities in AI/ML, Data Analytics, and Software Engineering. Based in Pune.
 
-- 🎓 B.Tech CSE (AI & Data Science) · CGPA: 8.60 · MIT-WPU Pune · 2027
-- 🏆 IGNISIA National Level AI Hackathon 2026
-- 🇮🇳 Smart India Hackathon 2025 — Selected to represent MIT-WPU
-- 🌍 3rd Runner-up · PAMA Global Abacus Competition · Malaysia
-- 💡 I build things across AI, full stack, IoT, and data analytics
+## Contact
 
----
-
-## 🚀 Projects
-
-| # | Project | Stack | Year |
-|---|---------|-------|------|
-| 1 | [ICU Agentic Diagnostic Risk Assistant](https://github.com/jineshagandhi/ICU-Agentic-Diagnostic-Risk-Assistance) | Python · Gemini 2.0 · FAISS · RAG · Streamlit | 2026 |
-| 2 | [FreelanceFlow — Freelance Marketplace](https://github.com/jineshagandhi/FreelanceFlow) | Java · Spring Boot · React · MongoDB · Docker | 2026 |
-| 3 | [EcoAudit — CCNLP Carbon Footprint Analysis](https://github.com/durhamdenzil-prog/EcoAudit) | React · TypeScript · FastAPI · Neo4j · spaCy · Llama3 | 2026 |
-| 4 | [PSPLRAS — Student Performance Analytics](https://github.com/jineshagandhi/psplras) | FastAPI · React · MongoDB · scikit-learn | 2026 |
-| 5 | [NorthWind Sales Dashboard](https://public.tableau.com/app/profile/jinesha.gandhi/viz/NorthWind_17754591301170/Dashboard1) | Tableau | 2026 |
-| 6 | [LAWScribe — AI Legal Document Analysis](https://github.com/jineshagandhi/AI-Legal-Assistant) | Python · Mistral-7B · FAISS · RAG | 2025 |
-| 7 | [AquaSentinel — IoT Water Monitor](https://github.com/jineshagandhi/aquasentinel) | Python · ESP32 · Firebase · JS | 2025 |
-| 8 | [Suicide Rate Analytics Dashboard](https://github.com/jineshagandhi/Suicide-Rate-Analytics-Dashboard) | Python · Pandas · Plotly · Dash | 2025 |
-| 9 | [IoT Health Monitoring Sleeve](https://github.com/jineshagandhi/smart-arm-sleeve-health-monitor) | Python · XGBoost · Raspberry Pi | 2025 |
-| 10 | [Personal Expense Tracker](https://github.com/jineshagandhi/EXPENSE-TRACKER) | PHP · MySQL · HTML/CSS/JS | 2025 |
-| 11 | [Online Flight Ticketing System](https://github.com/jineshagandhi/Online-Flight-Ticketing-System) | PHP · MySQL · Bootstrap | 2025 |
-| 12 | [Helicopter Game — OOP](https://github.com/jineshagandhi/Helicopter_Game_OOC) | C++ · SFML · OOP | 2024 |
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**AI / ML / NLP**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-121011?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Full Stack & DevOps**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Data & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-| Achievement | Year |
-|---|---|
-| 🥇 IGNISIA 24-Hour National Level AI Hackathon | 2026 |
-| 🇮🇳 Smart India Hackathon — Selected to represent MIT-WPU | 2025 |
-| 💻 100+ DSA problems · LeetCode · HackerRank · CodeChef | Ongoing |
-| 🌍 3rd Runner-up · PAMA Global Abacus Competition · Malaysia | 2018 |
-
----
-
-## 📜 Certifications
-
-- 📊 Dive Deeper into GA4 Data and Reports — **Google Skillshop** (2026)
-- 🤖 Introduction to Machine Learning Concepts — **Microsoft Learn**
-- 📈 Data Science 101 — **IBM SkillsBuild**
-- 📉 Data Visualization — **edX**
-- 🌐 Fundamentals of Digital Marketing — **Google**
-
----
-
-<div align="center">
-<i>"Build things that matter."</i>
-</div>
+- LinkedIn: [linkedin.com/in/jinesha-gandhi](https://linkedin.com/in/jinesha-gandhi)
+- Email: [jineshagandhi2020@gmail.com](mailto:jineshagandhi2020@gmail.com)
